@@ -1,0 +1,60 @@
+Livre 1 :
+Le titre : Miserables
+L'auteur : Hugo
+La description : Misere
+Le nom d'utilisateur : user1
+La categorie : Classique
+La disponibilite : Dispo
+L'ID : 1
+Le prix : 20.50
+
+Livre 2 :
+Le titre : 1984
+L'auteur : Orwell
+La description : Dystopie
+Le nom d'utilisateur : user2
+La categorie : SF
+La disponibilite : Dispo
+L'ID : 2
+Le prix : 15.99
+
+Livre 1 :
+Le titre : Ardzikola
+L'auteur : Berrada
+La description : Nadi
+Le nom d'utilisateur : ana
+La categorie : dadaz
+La disponibilite : dispo
+L'ID : 1
+Le prix : 55.60
+
+Livre 1 :
+Le titre : lol
+L'auteur : mimo
+La description : llll
+Le nom d'utilisateur : jjjj
+La categorie : kkk
+La disponibilite : jjmk
+L'ID : 1
+Le prix : 99.00
+
+Livre 1 :
+Le titre : sss
+L'auteur : dsa
+La description : asf
+Le nom d'utilisateur : d
+La categorie : kkk
+La disponibilite : dsfv
+L'ID : 1
+Le prix : 0.00
+
+Livre 1 :
+Le titre : eeeeeeee
+L'auteur : e
+La description : r
+Le nom d'utilisateur : w
+La categorie : SF
+La disponibilite : fqf
+L'ID : 1
+Le prix : 213.00
+
